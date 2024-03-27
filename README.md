@@ -1,5 +1,5 @@
 **Install Go Dependencies**
-\n Steps to start project:
+/n Steps to start project:
 
 1. go mod init .
 2. go mod tidy 
