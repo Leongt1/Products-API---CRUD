@@ -3,7 +3,8 @@
 ***Steps to start project:***
 
 1. go mod init .
-2. go mod tidy 
+2. go mod tidy
+3. go get github.com/cosmtrek/air
 
 **To setup air: (_for live reload_)**
 (cd to the folder: cmd/server_)
